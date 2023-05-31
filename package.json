@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AntonRange/MatchCalculatorPackage.git"
+    "url": "git+https://github.com/AntonRange/MathCalculatorPackage.git"
   },
   "keywords": [
     "calculator"
@@ -16,7 +16,7 @@
   "author": "Anton R",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AntonRange/MatchCalculatorPackage/issues"
+    "url": "https://github.com/AntonRange/MathCalculatorPackage/issues"
   },
-  "homepage": "https://github.com/AntonRange/MatchCalculatorPackage#readme"
+  "homepage": "https://github.com/AntonRange/MathCalculatorPackage#readme"
 }
